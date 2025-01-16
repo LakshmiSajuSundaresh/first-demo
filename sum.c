@@ -5,5 +5,6 @@ void main
 {
   int a=10,b=12,c;
   c=a+b;
-  printf("%d",c)
+  printf("%d",c);
+    getch();
 }
