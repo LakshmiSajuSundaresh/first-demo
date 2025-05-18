@@ -10,3 +10,6 @@ void main
 	printf("%d is odd",n);
 	getch();
 }
+1234567890
+1234567890
+hello moto
